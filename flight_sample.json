@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "source": "Delhi",
+        "destination": "Goa",
+        "date": "2025-10-07",
+        "seats": 4,
+        "airline": "SpiceJet"
+    },
+    {
+        "id": 2,
+        "source": "Mumbai",
+        "destination": "Bangalore",
+        "date": "2025-11-15",
+        "seats": 5,
+        "airline": "IndiGo"
+    }
+]
