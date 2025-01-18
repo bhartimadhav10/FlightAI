@@ -7,14 +7,7 @@
         "passenger_count": 1,
         "booking_date": "2025-01-17 23:17:12"
     },
-    {
-        "id": 2,
-        "flight_id": 1,
-        "name": "madhav bharti",
-        "email": "bhartimadhav152@gmail.com ",
-        "passenger_count": 1,
-        "booking_date": "2025-01-17 23:18:53"
-    },
+   
     {
         "id": 3,
         "flight_id": 1,
